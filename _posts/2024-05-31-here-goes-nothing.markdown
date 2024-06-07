@@ -15,7 +15,7 @@ I let his words get to me. And for a better part of a year and a half, I second 
 <div style="display: flex; justify-content: center;"><strong>BUT</strong></div><br>
 `I was already enough.`
  
-It's funny that we give so much power to other people but not to ourselves. I gave him way too much power. `I was fuckin dope.` I still am. And will always be. If I had let that stop me, I would have never become the badass that I am. Our relationship got a lot better in time. Working with him, was actually one of the most necessary seasons of my career. ***I'll expand on this a bit more in a future post***.
+It's funny that we give so much power to other people but not to ourselves. I gave him way too much power. `I was freakin dope.` I still am. And will always be. Our relationship got a lot better in time. Working with him, was actually one of the most necessary seasons of my career. ***I'll expand on this a bit more in a future post***.
 
 In summary, there will always be a reason to not do something. For some of us, it goes deeper than normal fear. You might have a literal voice in the back of your head spinning narratives that are telling you all the reasons why you will never be good enough. Those voices may be an echo being replayed in your subconscious. Voices that have no basis, right, or motive to say what is being said. And even if it did, **you are not who you were**. **You are who you are right now in this moment.** 
 
