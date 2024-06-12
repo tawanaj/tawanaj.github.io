@@ -6,15 +6,17 @@ categories: jekyll update
 ---
 
 
-I am heading out on vacation this weekend :raised_hands: and really looking forward to sitting on a beach and catching up with old friends, having yummy food and random moments of belly laughter together. 
+I am heading out on vacation this weekend :raised_hands:. I'm really looking forward to sitting on a beach and catching up with old friends. 
 
 Because of the pending travel, this week has been jam packed with things to get done.
 
-I wanted to share some things I have found that have helped me to truly prepare my heart, mind, body and everything else to disconnect. 
+I wanted to share some things I have found that have helped me to truly prepare my heart, mind, body to disconnect. 
 
 #### 1. Eat well, :weight_lifting_woman: exercise and sleep :sleeping_bed:
 
-Eating well is key to keeping your body fueled for your workouts. It also helps to regulate your bowel movements leading up to travel! Sleep is so important and the more you get leading up to travel, the more likely you are to be able to get in a good sleep routine when you arrive.
+Eating well is key to keeping your body fueled for your workouts. It also helps to regulate your bowel movements leading up to travel! 
+
+The better I sleep week of travel, the better my sleep is when I arrive. Try to get some sleep!
 
 When I keep my routine in tact before travel, I feel like I can actually un wind. It's almost like  a reward for all the hard work I've done leading up to the trip lol.
 
@@ -34,7 +36,7 @@ I am a plant mom to several types of plants with different watering needs. I try
 
 There is nothing quite like coming home to a clean house, let alone clean sheets. Honestly, if you don't have it in you to clean the entire house before you go, **that is ok**! I would aim for those sheets though. It is such a good feeling curling up in bed after a long travel day (sometimes I need a vacation from the travel day) with sheets that smell of gain.
 
-Next best thing, is a clean bathroom. Cleaning the bathroom is up there as my LEAST favorite chore. But after being away, having all your personal spaces clean, can help reduce the amount of things to get done as you lead back into the normal rhythm of your week. 
+Next best thing, is a clean bathroom. Cleaning the bathroom is up there as my LEAST favorite chore. But after being away, having all your personal spaces clean, can help reduce the amount of things to get done as you head into the normal rhythm of your week. 
 
 #### 5. Pamper me :nail_care:
 
