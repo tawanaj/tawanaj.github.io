@@ -13,8 +13,7 @@ There were a myriad of reasons for the nerves: re injuring myself, making the so
 But I couldn't physically bring myself to show up. 
 
 So I did the one thing that always seems harder to do in the moment. I asked for help. I reached out to a friend and explained all the things and asked if she would help me stay accountable to showing up. 
-
-<h3 style="display: flex; justify-content: center;">*****</h3>
+<br><br>
 
 ### Ask for help
 
