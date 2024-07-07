@@ -54,7 +54,7 @@ I try to make time to process anything that is going on internally. I set some h
 
 This has worked wonders for my travels. `If you never actually take time to process, you're just letting life happen to you. `
 
-I try to continue my journalizing while im traveling. It is amazing how much sweeter explorations are when you take time to **document them in private for the benefit of no one but yourself**. 
+I try to continue my journaling while im traveling. It is amazing how much sweeter explorations are when you take time to **document them in private for the benefit of no one but yourself**. 
 
 #### 8. **Pray** :pray:
 

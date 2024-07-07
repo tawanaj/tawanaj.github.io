@@ -26,7 +26,7 @@ We are so quick to retaliate/act in situations. That sometimes we don't give our
 Self compassion doesn't come easy for me. I have to work hard to not militantly go through my day, pushing everything aside to get things done. But I have found that the following things have helped me put self compassion into practice:
 
 #### 1. Journal <br>
-Journalizing helps me to truly talk things out with myself and with God :pray:. It helps me to gauge how far I am from what my normal is. These are some of the normal questions that go through my mind as I journal. 
+Journaling helps me to truly talk things out with myself and with God :pray:. It helps me to gauge how far I am from what my normal is. These are some of the normal questions that go through my mind as I journal. 
 > How am I doing today? What brought me joy? Why did I retaliate this way? Why is this making me so irritated?
 
 #### 2. Speak to that younger self of yours <br>
