@@ -5,7 +5,7 @@ date:   2024-07-12
 categories: jekyll update
 --- 
 
-This past week, I got to spend 4th of July visiting my mentor of many many years in Houston, Texas. I had such a great time catching up with her, spending time with her family, meeting her baby, being around other haitians and making new memories. 
+I spent 4th of July visiting my mentor in Houston, Texas. I had such a great time catching up with her, spending time with her family, meeting her baby, being around other haitians and making new memories. 
 
 While I was flying back, I took a moment to jot some things down in my journal. 
 
@@ -31,6 +31,8 @@ I was reminded of my oldest sister, Missy. Whom with her, I feel free to not hav
 
 That entire trip, I was bombarded by such a familiarity between my mentor and my oldest sister. They're both alike in many ways but I'm pretty sure I felt that because Marjorie is my family. She is just as much my sister as all my other sisters. Even with time and distance, her presence has remained constant.
 
+
+<br>
 <div style="display: flex; justify-content: center;">
   <img src="/assets/crying.webp"  style ="border-radius:2rem;" alt="timeout gif">
 </div> <br>
@@ -43,7 +45,7 @@ That entire trip, I was bombarded by such a familiarity between my mentor and my
 
 I am forever grateful for my chosen family :brown_heart:. I am grateful for divine alignment that brings us together. I am blessed. 
 
-<br><br>
+<br>
 
 May the rest of your week be full of family of every kind and remembrance :pray:
 
