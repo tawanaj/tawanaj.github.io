@@ -50,7 +50,3 @@ Be kind to you. Shower yourself with the same level of compassion as you would a
 
 
 I am hugging myself extra tight tonight. For a myriad of reasons. But mainly because I am so proud of me. All of me.
-
-<br>
-Hugs from afar, <br>
-Tawana J.
