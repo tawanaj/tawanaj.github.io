@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "From Mentorship to Family"
+title:  "From mentorship to family"
 date:   2024-07-12
 categories: jekyll update
 --- 
