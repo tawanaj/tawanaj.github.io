@@ -27,7 +27,7 @@ That is how I met my mentor, Marjorie, in the summer of 2011. It's crazy to thin
 
 Going back to the moment I had on the plane earlier, as **I sat in remembrance, my heart was drenched with gratitude**. I was in awe of how  God had ordained both of our steps to cross paths. Yes life could have been lived had we not known each other but its so much richer with her in my life.
 
-I was reminded of my oldest sister, Missy. Whom with her, I feel free to not have to be an adult (*amen to this*). Her protection of me is similar to that of a mom. I can show up at her doorstep and within moments, she'll be trying to feed me or whip something up. Because there's such a layer of safety, I can fall apart with her. She is also notorious for switching back and forth between english and creole. Her expressions are hilarious and I find myself copying her creole expressions.
+I was reminded of my oldest sister, Missy. Whom with her, I feel free to not have to be an adult (*amen to this*). Her protection of me is similar to that of a mom. I can show up at her doorstep and within moments, she'll be trying to feed me or whip something up for me to snack on. Because there's such a layer of safety, I can fall apart with her. She is notorious for switching back and forth between english and creole. Her expressions are hilarious and I find myself mimicking them.
 
 That entire trip, I was bombarded by such a familiarity between my mentor and my oldest sister. They're both alike in many ways but I'm pretty sure I felt that because Marjorie is my family. She is just as much my sister as all my other sisters. Even with time and distance, her presence has remained constant.
 
