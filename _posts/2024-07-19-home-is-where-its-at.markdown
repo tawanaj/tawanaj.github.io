@@ -23,7 +23,7 @@ I was reading this on my couch after I had just had dinner, a long productive da
 
  It got me thinking about my own home ownership journey, the stress, the joy, the frustrations, the fears, the beauty, the bravery, the inconveniences, the opportunities, the tax breaks, the financial burden at times, all of it. 
  
- Amidst all the peaks and valleys in the journey, I would not change a single thing. My home has truly become my safe haven. Every room has my own decorative touch to it. All my plant children were carefully curated to fit the aesthetic. After travel, a long day, being around tiny humans, or just because, there's nothing I long for more, than to come home. 
+ Amidst all the peaks and valleys in the journey, I would not change a single thing. My home has truly become my safe haven. Every room has my own decorative touch to it. All my plant children were carefully curated to fit my aesthetic. After travel, a long day, being around tiny humans, or just because, there's nothing I long for more, than to come home. 
 
  There's nothing like having a cup of tea in the morning, sitting in my recliner in my backyard as the sun rises. There's a quiet all around. The birds are chirping. Grass is grassing. I'm filled with such gratitude in my heart that compels me to pray prayers of thanksgiving and praise to my God. There's a stillness that comes over me that I cant quite put into words. My only hope is that everyone gets to have this experience. 
 
@@ -41,9 +41,9 @@ Cultivating a healthy environment that is just for me, has helped me:
 - Identify unhealthy situations
 - Enforce boundaries with myself **and with others**
 - **Give my inner child space to grieve what she did not have**
-- Give my current self space to be joyful and celebrate for the peace that I get to bask in
+- Give my current self space to be joyful and celebrate the peace that I get to bask in
 - Remove guilt of any kind for doing what is needed to protect my space (even if that means cutting off toxic family members)
-- Give me vision for the kind of atmosphere that I would want for my kids one day
+- Give me vision for the kind of atmosphere that I would want my kids to grow up in one day
 - Add an extra layer of self awareness 
 
 This list could go on and on. So what am I saying? Should everyone move with haste to go live on their own? Well if the shoe fits then yeah lol. No. **What I am saying is this**:
