@@ -16,14 +16,19 @@ If you are a sucker for a good banana and strawberry smoothie, I have a pretty e
 * 1 scoop of your favorite protein powder
 
 <br>
-<div style="display: flex; justify-content: center;">
-  <img src="/assets/protein_shake.jpg"  style ="border-radius:2rem; height: 25rem; margin-right: 1rem;" alt="timeout gif">
-    <img src="/assets/blender.jpg"  style ="border-radius:2rem; height: 25rem;" alt="timeout gif">
+<div style="display: flex; flex-direction: column; justify-content: center; width:100%; height:100%;">
+  <img src="/assets/protein_shake.jpg" alt="ingredients" style ="border-radius:2rem; " alt="timeout gif">
+  <span style="display: flex; align-self: center; margin-top:1rem;  font-weight: bold;">Ingredients</span>
+</div> 
+
+<div style="display: flex; flex-direction: column; justify-content: center; width:100%; height:100%; margin-top: 2rem;">
+  <img src="/assets/blender.jpg"  style ="border-radius:2rem;" alt="timeout gif">
+  <span style="display: flex; align-self: center; margin-top:1rem; font-weight: bold;">Full size Nutribullet and smoothie cup</span>
 </div> <br>
 
 ### Important notes: 
 
-> You'll need a smaller nutribullet sized or full size blender. **Please note my measurements are for the nutribullet smoothie cups that attach to the full size blender!** If you are using a nutribullet, I would trim the measurements by a fourth. 
+> You'll need a smaller Nutribullet sized or full size blender. **Please note my measurements are for the Nutribullet smoothie cups that attach to the full size blender as pictured above!** If you are using a Nutribullet, I would trim the measurements by a fourth. 
 
 > I like to use the Ascent Whey protein brand. I've found that it has the best consistency and my body responds to it a bit better. But any protein powder will do!
 
