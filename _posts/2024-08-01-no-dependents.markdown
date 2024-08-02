@@ -14,11 +14,11 @@ However, the last 2 weeks have been stressful. There has been so much going on i
 
 But there were moments where I felt true resentment towards Ghena. It didn't last very long because he would do something funny or do nothing at all but sleep which was even funnier :laughing:. 
 
-<!-- <br>
+<br>
 <div style="display: flex; justify-content: center; flex-direction:column; width: 100%">
-  <img src="/assets/compassion.jpg" alt="timeout gif" style="width: 20rem; display: flex; align-self: center; ">
+  <img src="/assets/ghena.jpg" alt="timeout gif" style="width: 20rem; display: flex; align-self: center; ">
   <span style="display: flex; align-self: center; margin-top:1rem; font-style: italic;">Mr. sleepy pants</span>
-</div><br> -->
+</div><br>
 
 All of this got be me thinking about where I am in my life right now. 
 >What is it that I want?
