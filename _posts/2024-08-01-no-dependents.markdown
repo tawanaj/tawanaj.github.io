@@ -16,7 +16,7 @@ But there were moments where I felt true resentment towards Ghena. It didn't las
 
 <br>
 <div style="display: flex; justify-content: center; flex-direction:column; width: 100%">
-  <img src="/assets/ghena.jpg" alt="timeout gif" style="width: 20rem; display: flex; align-self: center; ">
+  <img src="/assets/ghena.jpg" alt="timeout gif" style="width: 20rem; display: flex; border-radius: 1rem; align-self: center; ">
   <span style="display: flex; align-self: center; margin-top:1rem; font-style: italic;">Mr. sleepy pants</span>
 </div><br>
 
