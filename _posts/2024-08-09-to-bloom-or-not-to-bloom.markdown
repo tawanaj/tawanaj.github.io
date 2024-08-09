@@ -15,7 +15,7 @@ As a result of all the heat, my Hydrangeas were burnt to a crisp. My grass was a
 </div>
 <br>
 
-The same day that I saw this flower, I was not in the best of moods. I was so drained and just overwhelmed with things that were happening. I felt like there were so many things outside of my control. And I was also processing some pretty disappointing turn of events that happened a couple days earlier.
+The same day that I noticed the newest flower, I was not in the best of moods. I was so drained and overwhelmed with things that were happening. I felt like there were so many things outside of my control. And I was also processing some disappointing turn of events that happened a couple days earlier.
 
 I usually stay pretty active throughout the day but not that day lol. I also decided that I was going to eat my feelings and finished an entire bag of cheetos puffs. I messaged a friend (who also happens to be my accountability partner) and told her how terrible I'd been feeling and that I needed to get to the gym.
 
@@ -40,7 +40,7 @@ In what could have easily ended up being a terrible day, it turned out to be one
 
 Despite the scourging heat and burning leaves, my Hydrangea plant is producing fruit. It has kept its disposition by being firmly planted in the ground :potted_plant:.
 
-My commitment to keeping my routine, helped me to be fruitful. It wasn't that long ago where a terrible day would've ended a lot differently for me. I would have gone back to some addictive habits. But getting my behind to the gym, vocalizing where I was emotionally with a friend and  just talking through it, helped me keep my disposition of chosen sobriety. **Producing fruit in the form of a healthy body and mind.**
+My commitment to keeping my routine, helped me to be fruitful. It wasn't that long ago where a terrible day would've ended a lot differently for me. I would have gone back to some addictive habits. But getting to the gym, vocalizing where I was emotionally with a friend and  just talking through it, helped me keep my disposition of chosen sobriety. **Producing fruit in the form of a healthy body and mind.**
 
  <br>
 
