@@ -5,7 +5,7 @@ date:   2024-08-16
 categories: jekyll update
 --- 
 
-At the beginning of 2023, I set out to learn how to love myself. I was at a place in my life where I was truly struggling to do basic things like giving myself grace or showing some self compassion. And it wasn't until I realized in therapy, that I had never learned how to love me. 
+At the beginning of 2023, I set out to learn how to love myself. I was at a place in my life where I was truly struggling to do basic things like giving myself grace or showing self compassion. And it wasn't until I realized in therapy, that I had never learned how. I hadn't learned how to properly love me.
 
 It's one of those things that aren't written clearly in black and white. There is no manual to read like there is when you buy an appliance. 
 
