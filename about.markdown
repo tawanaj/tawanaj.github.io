@@ -17,7 +17,7 @@ I gave my life to Jesus when I was about 10 years old and what a journey it has 
 <br>
 
 <div style="display: flex; justify-content: center;">
-  <img src="/assets/me.jpg" alt="Description of image" style="width:60%;c opacity:0.9;">
+  <img src="/assets/me.jpg" alt="Description of image" style="width:60%;c opacity:0.9; border-radius:1rem;">
 </div>
 
 <br>
