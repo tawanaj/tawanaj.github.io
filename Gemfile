@@ -34,5 +34,7 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem 'jemoji',"~> 0.13.0"
 
+gem "rexml", ">= 3.3.3"
+
 
 #To run: bundle exec jekyll serve
