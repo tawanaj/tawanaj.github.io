@@ -41,7 +41,7 @@ One of the first things I did was **open up a self care account**. And I put $50
 
  These were funds that I would spend freely on anything that I wanted to do for myself. For a while, this looked like treating myself to a movie night, taking myself to breakfast, getting my eyebrows done. Small things. 
  
- That budget has now quadrupled. At first I struggled to figure out how to celebrate myself. But soon, it became one of my favorite things to do. I look forward to planning my date nights lol. Some of these are now embedded in my normal schedule. **For the first time, I was learning how to tangibly, treasure me.**
+ That budget has now quadrupled. At first I struggled to figure out how to celebrate myself. But soon, it became one of my favorite things to do. I look forward to planning my date nights lol. Some of these are now embedded in my normal schedule. **I was learning how to tangibly, treasure me.**
   
   Today my self care spending looks like me getting my nails done, taking myself out to dinner or my favorite brunch spot and people watching, going to the spa, ordering myself flowers 	:bouquet:, making a really nice dinner at home and enjoying my favorite wine, having painting with a twist dates with myself, **writing myself thank you letters and leaving them around the house** (good for the soul :purple_heart:), etc. 
 
@@ -56,7 +56,7 @@ There was so much shame tied to this area of my life. A lot it was learned shame
 
 So needless to say, there were a web of lies to unravel. The combination of learning fundamental and biological truths helped to shape a new view of myself. A lot of honest prayers were prayed, tears shed, hard conversations had with myself, my therapist, God but a lot of it with myself. 
 
-This really fueled my ability to show myself grace, patience and empathy. Because for the first time, I understood why things were, where things were and how they were. It has given me a new found freedom and self awareness.
+This really fueled my ability to show myself grace, patience and empathy. I understood why things were, where things were and how they were. It has given me a new found freedom and self awareness.
 
 
 <h3 style="display: flex; justify-content: center;">*****</h3>
@@ -73,9 +73,11 @@ I started saying no. I stopped pleasing people around me for the heck of it. I p
 
 <h3 style="display: flex; justify-content: center;">*****</h3>
 
-What seemed so hard in the beginning, has become second nature. 
+**I love me.** 
 
-**I love me.** That statement carries so much more meaning now because I truly live it out.  I love that I take myself on long hikes on the weekends to clear my head, pray, enjoy nature and give thanks for all that I accomplished during the week. I love that I have learned to prioritize my calendar (if I'm booked - even if its a date night with myself - sorry I will not reschedule).  I love my body :brown_heart:! All of its nuances, it makes me, me! I love my laugh, I find myself hearing it more often in my down time or with friends.
+That statement carries so much more meaning now because I truly live it out. It is crazy to think how easy it is to do now. But that is what consistency will do.
+
+I love that I take myself on long hikes on the weekends to clear my head, pray, enjoy nature and give thanks for all that I accomplished during the week. I love that I have learned to prioritize my calendar (if I'm booked - even if its a date night with myself - sorry I will not reschedule).  I love my body :brown_heart:! All of its nuances, it makes me, me! I love my laugh, I find myself hearing it more often in my down time or with friends.
 
 > **I am fully committed to myself.**
 
