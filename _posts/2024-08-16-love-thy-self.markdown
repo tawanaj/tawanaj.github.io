@@ -41,7 +41,7 @@ One of the first things I did was **open up a self care account**. And I put $50
 
  These were funds that I would spend freely on anything that I wanted to do for myself. For a while, this looked like treating myself to a movie night, taking myself to breakfast, getting my eyebrows done. Small things. 
  
- And in time, that budget quadrupled. At first I struggled to figure out how to celebrate myself. But in time, it became one of my favorite things to do. I look forward to planning my date nights lol. Some of these are now embedded in my normal schedule. **For the first time, I was learning how to tangibly, treasure me.**
+ That budget has now quadrupled. At first I struggled to figure out how to celebrate myself. But soon, it became one of my favorite things to do. I look forward to planning my date nights lol. Some of these are now embedded in my normal schedule. **For the first time, I was learning how to tangibly, treasure me.**
   
   Today my self care spending looks like me getting my nails done, taking myself out to dinner or my favorite brunch spot and people watching, going to the spa, ordering myself flowers 	:bouquet:, making a really nice dinner at home and enjoying my favorite wine, having painting with a twist dates with myself, **writing myself thank you letters and leaving them around the house** (good for the soul :purple_heart:), etc. 
 
@@ -65,9 +65,9 @@ Next phase was figuring out how to keep what I had been learning a part of my no
 
 **Boundaries.**
 
-I read a book on boundaries (noted below) that flipped a lot of things on its head and was a true turning point for me. 
+I read a book on boundaries (noted below) that flipped a lot of things on its head and was a true turning point for me. So much of what I was afraid to admit out loud, was made clear and validated in this book. 
 
-So much of what I was afraid to admit out loud, was made clear and validated in this book. I felt the freedom to fight for myself and the new found space that I was creating. **Boundaries are needed to protect your heart and self.** It is a facet of love that we often don't talk about much - self respect. 
+I felt the freedom to fight for myself and the new found space that I was creating. **Boundaries are needed to protect your heart and self.** It is a facet of love that we often don't talk about much - self respect. 
 
 I started saying no. I stopped pleasing people around me for the heck of it. I prioritized myself and my own needs not in a selfish way but again going back to the mortgage example, meeting the basic need of wanting to be healthy. I learned how to set boundaries with my family, with friends and with myself! **<u>Yes you can set boundaries with yourself.</u>**
 
@@ -84,7 +84,7 @@ I didn't know what a statement like that could mean until I put me first.
 
 
 
-Funny enough, I find that I am a much better friend now than I ever was. I am more attentive, intentional and patient. Well I wouldn't call it funny, I'd say I'm just living out truth. 
+Funny enough, I find that I am a much better friend now than I ever was. I am more attentive, intentional and patient. 
 
 `As I have learned to love myself, I can now love others with a similar devotion.`
 
