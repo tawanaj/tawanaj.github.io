@@ -75,7 +75,7 @@ I started saying no. I stopped pleasing people around me for the heck of it. I p
 
 **I love me.** 
 
-That statement carries so much more meaning now because I truly live it out. It is crazy to think how easy it is to do now. But that is what consistency will do.
+That statement carries so much more meaning now because I truly live it out. It's crazy what staying consistent will do. Love is natural for me now. 
 
 I love that I take myself on long hikes on the weekends to clear my head, pray, enjoy nature and give thanks for all that I accomplished during the week. I love that I have learned to prioritize my calendar (if I'm booked - even if its a date night with myself - sorry I will not reschedule).  I love my body :brown_heart:! All of its nuances, it makes me, me! I love my laugh, I find myself hearing it more often in my down time or with friends.
 
