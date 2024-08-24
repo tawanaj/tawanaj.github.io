@@ -18,7 +18,7 @@ I love the tranquility that the morning brings. I try to have tea in the backyar
 
 Life is **<u>LOUD</u>**. On a daily basis it can be deafening. 
 
-The things around us, are constantly amplifying. From a societal perspective, there's social media, tik tok, the news, political climate and misinformation that seems to rile everyone up. Then there's the noise from our own lives that seemingly get louder as the week progresses. Be it household duties, hobbies, stressful work situations or environments, family, children, maintaining friendships, financial stress and hardships, the list could go on for days. 
+The things around us, are constantly amplifying. From a societal perspective, there's social media, tik tok, the news, politics and misinformation that seems to rile everyone up. Then there's the noise from our own lives that seemingly get louder as the week progresses. Be it household duties, hobbies, stressful work situations or environments, family, children, maintaining friendships, financial stress and hardships, the list could go on for days. 
 
 <br>
 <div style="display: flex; justify-content: center; flex-direction:column; width: 100%">
@@ -30,7 +30,7 @@ Life is like the constant playlist playing through the speakers. And the sound i
 
 Silence is not normalized enough. Sitting with just the quiet of your own self, no phone, no selfies documenting the sitting, is not something we prioritize. It goes against the grain of what we know. Why is that?
 
-> Could it be we're afraid of what will come up? Or is it simply that we haven't tried it out?
+>Could it be we're afraid of what will come up? Or is it simply that we haven't tried it out?
 
 <h3 style="display: flex; justify-content: center;">*****</h3>
 
@@ -71,7 +71,7 @@ I decided to look up some benefits of sitting in silence and turns out there's a
 
 <h3 style="display: flex; justify-content: center;">*****</h3>
 
-While I enjoy time with people, I enjoy time alone more. That doesn't mean that social interactions have to be weird. I love being with my people :purple_heart:. I also love just being with Tawana :brown_heart:. 
+I love being with my people :purple_heart:. I also love just being quiet with Tawana :brown_heart:. 
 
 
 Here's to you, may you enjoy time in peaceful stillness while still being able to enjoy the company of those you value most. 
