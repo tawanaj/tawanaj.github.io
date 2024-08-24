@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Berry Banana Smoothie Recipe"
+title:  "Banana Berry Smoothie Recipe"
 date:   2024-07-26
 categories: jekyll update
 --- 

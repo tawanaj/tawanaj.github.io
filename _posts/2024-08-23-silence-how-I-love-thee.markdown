@@ -3,6 +3,7 @@ layout: post
 title:  "Silence, oh how I love thee"
 date:   2024-08-23
 categories: jekyll update
+permalink: /silence
 --- 
 
 This week has been a very social week. Between various in and out of office work events, hanging with friends and being in the gym, I am socially tapped out. This weekend will surely be full of time alone to recharge and reflect. 
@@ -26,7 +27,7 @@ The things around us, are constantly amplifying. From a societal perspective, th
 </div>
 <br>
 
-We're like headphones, where life is the constant playlist playing through the speakers. And the sound is at the hightest volume. Every beat and tune, all affecting us. 
+Life is like the constant playlist playing through the speakers. And the sound is at the hightest volume. Every beat and tune, all affecting us. 
 
 Silence is not normalized enough. Sitting with just the quiet of your own self, no phone, no selfies documenting the sitting, is not something we prioritize. It goes against the grain of what we know. Why is that?
 
@@ -43,11 +44,11 @@ Knowing what I know now, I realize that a huge source of my discomfort, came fro
 
 The other thing I realized, was that I never had a chance to internalize my own inner chaos. There were so many open wounds that had never been tended to. But they were masked as "healed" from the noise of what my reality was at the time. 
 
-I found outward ways to make life loud again. I was hanging out with friends. I heavily indulged in social media and would revolve my life around it. I got plugged into a church and started serving. I started doing a lot more traveling.
+I found outward ways to make life loud again. I was hanging out with friends. I heavily indulged in social media and would revolve my life around it. I got plugged into a church and started serving. I started doing a lot more traveling. I even got into a long distance relationship.
 
-While all these were GREAT things to do (minus the social media indulgence), I was just numbing myself. **Trying to escape the fact that deep down I wasn't comfortable with just me.**
+While all these were GREAT things to do (minus the social media indulgence and probably the relationship :laughing:), I was just numbing myself. **Trying to escape the fact that deep down I wasn't comfortable with just me.**
 
-It took a whole lot of therapy, journaling and deep heart work to address.
+It took a whole lot of therapy, journaling, getting to know and love myself ([check out last weeks entry on this]({% post_url 2024-08-16-love-thy-self %})) and deep heart work.
 
 <h3 style="display: flex; justify-content: center;">*****</h3>
 
