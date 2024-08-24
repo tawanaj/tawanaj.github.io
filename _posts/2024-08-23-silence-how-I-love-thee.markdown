@@ -3,7 +3,6 @@ layout: post
 title:  "Silence, oh how I love thee"
 date:   2024-08-23
 categories: jekyll update
-permalink: /silence
 --- 
 
 This week has been a very social week. Between various in and out of office work events, hanging with friends and being in the gym, I am socially tapped out. This weekend will surely be full of time alone to recharge and reflect. 
