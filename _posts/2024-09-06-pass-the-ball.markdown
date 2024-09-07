@@ -71,7 +71,7 @@ While I understand my disposition, putting something down **does not symbolize w
 
 I am proud to say that I tagged in one of my teammates. And you know what I felt more than anything this week? <br><br>**Relief.**
 
-And that friends is worth more than anything. 
+And that friends, is worth more than anything. 
 
 Where can you say no? Do you need to be the one juggling the ball :baseball:? 
 **<u>If not, pass the ball.</u>**
@@ -86,7 +86,7 @@ My gauge is a culmination of a few things: the amount of naps I'm taking and for
 
 Each time your brain switches to something new, there is a cognitive cost associated. Hence, why I was feeling the mental exhaustion that I mentioned earlier. 
 
-I am multi task queen 	:crown:. I feel like I was made to multi task. And sometimes I'm not even multi tasking, I'm just getting a lot of things done in a day that are all vastly different. This can still cause a layer of mental exhaustion. Because your mind is still having to ramp up and ramp down to complete whatever task. 
+I am multi task queen 	:crown:. I feel like I was made to multi task. And sometimes I'm not even multi tasking, I'm just getting a lot of things done in a day that are all vastly different. This can still cause a layer of mental exhaustion because your mind is still having to ramp up and ramp down to complete whatever task. 
 
 I realized that **I can only have X number of things in flight on a given day**. Ideally, I'd like to just have one. But life as we know it, isn't that simple. So I took hold of my schedule and made some changes, shifted some things around, pushed some things back that weren't urgent and added in some breathing room. 
 
