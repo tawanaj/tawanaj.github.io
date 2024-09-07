@@ -6,11 +6,11 @@ categories: jekyll update
 --- 
 
 
-I flew home for labor day weekend to spend some time with my fam! I thoroughly enjoyed lounging around, taking the occasional nap and brunching with my sisters :cocktail:! 
+I flew home for labor day weekend to spend some time with my fam. I thoroughly enjoyed lounging around, taking the occasional nap and brunching with my sisters :cocktail:! 
 
-While I was away, I took note of how my body felt both inward and outward.
+While I was away, I took note of how my body felt both inward and outward. And assessed everything that has been going on.
  
-I felt an inward mental and emotional exhaustion. I found myself napping for longer than normal.  I'm not usually a napper but when I do nap, I know its my body's way of telling me it's exhausted :sleeping_bed:. 
+I felt mentally and emotionally exhausted. I found myself napping for longer than normal. I'm not usually a napper but when I do nap, its my body's way of telling me it's exhausted :sleeping_bed:. 
 
  Up until that point, I had been juggling tons of different things, each in their own arena of life: work, day to day life things, family things, selling a house, managing contractors, still trying to prioritize myself and tending to friendships, planning trips and traveling. 
  
@@ -27,11 +27,14 @@ One thing became very clear to me...
  <h3 style="display: flex; justify-content: center;">*****</h3>
 Upon my realization, the first thing <u>I felt was angst.</u> 
 
-Everything I was handling, seemed like a necessity. I made an excuse as to why every single thing on my plate had to be there. That went a little bit like this: 
+Everything I was handling, seemed like a necessity. I made an excuse as to why every single thing on my plate had to be there. It went a little bit like this: 
 
-> I like writing code, so owning several different features at the same time, seem reasonable and helps me to do what I enjoy. <br>
-> I'm a homeowner and should probably tend to things that need my immediate attention. <br>
-> It's my mom! I can't just not help her out. She needs help taking care of this house stuff. <br>
+> I like writing code, so owning different features at the same time, helps me to do what I enjoy.
+ <br><br>
+> I'm a homeowner and should probably tend to things that need my immediate attention. 
+<br><br>
+> It's my mom! I can't just not help her out. She needs help taking care of house stuff.
+ <br><br>
 > I need people in this life, so hanging with friends is a must. 
 
 
@@ -59,7 +62,7 @@ I was managing 2 features at the same time. This looked like writing the code, h
 
  I knew that I could tag in one of my teammates to tend to one of the features. But I didn't want to let it go. I felt like I had to be the one to finish it. I also didn't want someone else to get the glory for something that I did up until that point. 
 
-**<u>PRIDE will get you every time.</u>**
+**<u>PRIDE will get you every single time.</u>**
 
 I had to write that again for myself lol. 
 
@@ -94,7 +97,7 @@ Figure out how full your plate is :plate_with_cutlery:. **<u>What can you re arr
 
 <h3 style="display: flex; justify-content: center;">*****</h3>
 
-Life is busy. Don't let the business rule you. You have authority to take control of what is happening. 
+Life is busy. Don't let the busyness rule you. You have authority to take control of what is happening. 
 
 The thing that may seem absolutely necessary, may not actually be so.
 
