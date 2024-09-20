@@ -36,5 +36,7 @@ gem 'jemoji',"~> 0.13.0"
 
 gem "rexml", ">= 3.3.6"
 
+gem "google-protobuf", ">= 4.27.5"
+
 
 #To run: bundle exec jekyll serve
