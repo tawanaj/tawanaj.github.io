@@ -49,7 +49,7 @@ I thanked the Lord for giving me wisdom to know what to do and to think of quick
  <h3 style="display: flex; justify-content: center;">*****</h3>
 
 
-On Sunday nights, I like to have what I call, *"comfy chair prayer time"* :couch_and_lamp:. Where its just me and Jesus, talking about all the things. Usually what happens is, God will put a passage of scripture on my heart during my prayers. And this passage ends up being exactly what I need throughout the upcoming week 100% of the time. It's my anchor of sorts :anchor:. 
+On Sunday nights, I like to have what I call, *"comfy chair prayer time"* :couch_and_lamp:. Where its just me and Jesus, talking about all the things. Usually what happens is, God will put a passage of scripture on my heart during my prayers. And this passage ends up being exactly what I need throughout the upcoming week, 100% of the time. It's my anchor of sorts :anchor:. 
 
 This Sunday night, God put Philippians 4:6-7 on my mind. It reads as follows:
 
@@ -59,7 +59,7 @@ This Sunday night, God put Philippians 4:6-7 on my mind. It reads as follows:
 
 This morning, as I pushed myself to press in to gratitude, I was amazed by how much a simple deed had such an effect on everything. 
 
-I felt and still feel a peace that I can't quite comprehend with words. In an instant, it all became so clear to me. I am unsure of what is to come in this life for me, for my family and all the things going on, for my career, for my dreams. But one thing I know for sure, is that **I will be ok**. Wether on this side of eternity or the next, I will be ok, **we'll be ok**. 
+I felt and still feel a peace that I can't quite comprehend with words. In an instant, it all became so clear to me. I am unsure of what is to come in this life, for me, for my family and all the things going on, for my career, for my dreams. But one thing I know for sure, is that **I will be ok**. Wether on this side of eternity or the next, I will be ok, **we'll be ok**. 
 
 **`Gratitude gave me perspective.`**
 
@@ -71,9 +71,13 @@ Idk about you but I am looking forward to the weekend. I will be lifting extra h
 
 What will you be doing this weekend?
 
- I encourage you to practice gratitude in some way. I don't care if you're thanking your cat or your dog for being your companion. <u>Make time for thoughtful reflection.</u> **`Find something to be grateful for and set your mind and thoughts on that.`**
+ I encourage you to practice gratitude in some way. I don't care if you're thanking your cat or your dog for being your companion. <u>Make time for thoughtful reflection.</u> **`Find something to be grateful for and set your mind and thoughts on that.`** 
+ 
+ <br>
 
-Cheers to your weekend mate :wine_glass:, may it be ever so pleasant and full of peaceful armor
+Cheers to your weekend mate :wine_glass:, may it be ever so pleasant and full of peaceful armor.
+
+Tawana J.
 
 
 
