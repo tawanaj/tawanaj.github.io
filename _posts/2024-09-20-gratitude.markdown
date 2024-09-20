@@ -9,16 +9,15 @@ Whew! This has been quite the week :weary:. It started off on such a high with t
 
 <div style="display: flex; justify-content: center;">
   <img src="/assets/tired.webp" style ="border-radius:1rem;" alt="timeout gif">
-</div>
+</div><br>
 
 It's been rough. 
 
- <h3 style="display: flex; justify-content: center;">*****</h3>
 
-I use a journaling app called Stoic (great app and very well done). As I went to write an entry this morning, attempting to document how awful I was feeling, it prompted me about it being **world gratitude day**. I was instantly navigated to a guided entry about gratefulness. 
+I use a journaling app called Stoic (great app and very well done). As I attempted to document how awful I was feeling, I was prompted about it being **world gratitude day**. I was instantly navigated to a guided entry about gratefulness. 
 
 
-As the weight of the week impressed upon me, gratitude was the last thing on my mind. But this morning I had to make a conscious decision to press in. And so I did.
+As the week weighed heavily on me, gratitude was the last thing on my mind. And it was the last thing that I wanted to do. But I had to make a conscious decision to press in. And so I did.
 
 
 <br>
