@@ -43,6 +43,10 @@ My next realization was how much I had to learn to be able to navigate all the c
 
 I thanked the Lord for giving me wisdom to know what to do and to think of quick solutions to problems that arose. I thanked him for putting friends in my life who connected me to the realtor we used. I thanked him for the ability to know how to research and for things like chatgpt that literally became my pocket real estate attorney (more acknowledgement). 
 
+I then realized that I got to spend each night this week with a friend. Wether that was digitally or in person. This is never the case. I got to enjoy the company of people I care about. 
+
+I am grateful for these friends! I am grateful that I get to share my life with some pretty awesome people. I am grateful for moments of shared understanding. 
+
 <br>
 
 
@@ -67,7 +71,7 @@ I am so grateful that God anticipated my needs and gave me something to hold on 
 
  <h3 style="display: flex; justify-content: center;">*****</h3>
 
-Idk about you but I am looking forward to the weekend. I will be lifting extra heavy :weight_lifting_woman: in the gym tonight, hanging with friends, hiking, having yummy food and enjoying the life that I have been given.
+Idk about you but I am looking forward to the weekend. I will be lifting extra heavy :weight_lifting_woman: in the gym tonight, hanging with friends, having a costco hot dog and enjoying the life that I have been given.
 
 What will you be doing this weekend?
 
