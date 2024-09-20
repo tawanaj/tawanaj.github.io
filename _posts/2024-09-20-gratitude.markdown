@@ -7,8 +7,9 @@ categories: jekyll update
 
 Whew! This has been quite the week :weary:. It started off on such a high with the end of a very stressful season (selling a house) but quickly shifted gears from relief to more stress, as another issue arose. In addition to this, work has been emotionally exhausting, with everyone on edge and full of anxiety over some major changes coming in the next week. And to put a damper on things, my sleep has been terrible.
 
-The week went from great, to fight or flight level anxiety, to mental and emotional exhaustion.
-
+<div style="display: flex; justify-content: center;">
+  <img src="/assets/tired.webp" style ="border-radius:1rem;" alt="timeout gif">
+</div>
 
 It's been rough. 
 
