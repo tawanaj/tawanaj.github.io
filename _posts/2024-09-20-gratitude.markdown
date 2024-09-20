@@ -71,7 +71,7 @@ Idk about you but I am looking forward to the weekend. I will be lifting extra h
 
 What will you be doing this weekend?
 
- I encourage you to practice gratitude in some way. I don't care if you're thanking your cat or your dog for being your companion. Make time for thoughtful reflection. **`Find something to be grateful for and set your mind and thoughts on that.`**
+ I encourage you to practice gratitude in some way. I don't care if you're thanking your cat or your dog for being your companion. <u>Make time for thoughtful reflection.</u> **`Find something to be grateful for and set your mind and thoughts on that.`**
 
 Cheers to your weekend mate :wine_glass:, may it be ever so pleasant and full of peaceful armor
 
