@@ -5,32 +5,6 @@ date:   2024-09-27
 categories: jekyll update
 --- 
 
-<style>
-@media (max-width: 600) {
-  .img {
-    width: 10rem;
-    height: 15rem;
-  }
-}
-
-@media (max-width: 768){
-  .img {
-    width: 15rem;
-    height: 20rem;
-  }
-}
-
-
-@media (min-width: 1025){
-  .img {
-    width: 20rem;
-    height: 25rem;
-  }
-}
-
-
-</style>
-
 In the last several years, I have accumulated over 60 house plants. I'm not sure how I got to this number and when, but I love my plant children :potted_plant:. About 30% of them are some variation of a pothos plant.
 
 
@@ -41,12 +15,12 @@ Pothos plants belong to the Araceae family.
 
 <br>
 
-<div  style="display: flex; justify-content: space-between;">
-  <div style="display: flex; flex-direction:column; justify-content: center;  align-items: center;">
+<div  style="display: flex; flex-direction: column;">
+  <div style="display: flex; flex-direction:column; justify-content: center;  align-items: center; margin-bottom:2rem;">
     <img src="/assets/office-pothos.jpeg" alt="Description of image" style="width: 20rem; height: 25rem; border-radius:1rem;">
     <span style="display: flex; align-self: center; margin-top:1rem; font-style: italic; font-weight: bold;"> Delilah &nbsp;:purple_heart:</span>
   </div>
-  <div style="display: flex; flex-direction:column; justify-content: center;  align-items: center;">
+  <div style="display: flex; flex-direction:column; justify-content: center;  align-items: center; margin-bottom:2rem;">
     <img src="/assets/kitchen-vine.jpeg" alt="Description of image" style="width: 20rem; height: 25rem; border-radius:1rem;">
     <span style="display: flex; align-self: center; margin-top:1rem; font-style: italic; font-weight: bold;"> Jessie &nbsp;:purple_heart:</span>
   </div>
@@ -66,12 +40,12 @@ They require indirect bright light. These are great plants for that high shelf y
 
 <br>
 
-<div  style="display: flex; justify-content: space-between;">
-  <div style="display: flex; flex-direction:column; justify-content: center;  align-items: center;">
+<div  style="display: flex; flex-direction: column;">
+  <div style="display: flex; flex-direction:column; justify-content: center;  align-items: center; margin-bottom:2rem;">
     <img src="/assets/big-wall-pothos.jpeg" alt="Description of image" style="width: 20rem; height: 25rem; border-radius:1rem;">
     <span style="display: flex; align-self: center; margin-top:1rem; font-style: italic; font-weight: bold;"> Merideth &nbsp;:brown_heart:</span>
   </div>
-  <div style="display: flex; flex-direction:column; justify-content: center;  align-items: center;">
+  <div style="display: flex; flex-direction:column; justify-content: center;  align-items: center; margin-bottom:2rem;">
     <img src="/assets/small-wall-pothos.jpeg" alt="Description of image" style="width: 20rem; height: 25rem; border-radius:1rem;">
     <span style="display: flex; align-self: center; margin-top:1rem; font-style: italic; font-weight: bold;"> Lexie &nbsp;:brown_heart:</span>
   </div>
@@ -96,12 +70,12 @@ No so fun fact:
 >  Golden pothos are toxic to both pets and tiny humans (NO EATING). Due to the air purifying nature of these plants, the toxins live in the leaves. You may want to keep these out of reach or on high shelves.
 
 <br>
-<div  style="display: flex; justify-content: center;">
-  <div style="display: flex; flex-direction:column; justify-content: center;  align-items: center; margin-right: 3rem;">
+<div  style="display: flex; flex-direction: column;">
+  <div style="display: flex; flex-direction:column; justify-content: center;  align-items: center; margin-bottom:2rem;">
     <img src="/assets/shelf-pothos.jpeg" alt="Description of image" style="width: 15rem; height: 20rem; border-radius:1rem;">
     <span style="display: flex; align-self: center; margin-top:1rem; font-style: italic; font-weight: bold;"> Lizzie &nbsp;:blue_heart:</span>
   </div>
-  <div style="display: flex; flex-direction:column; justify-content: center;  align-items: center;">
+  <div style="display: flex; flex-direction:column; justify-content: center;  align-items: center; margin-bottom:2rem;">
     <img src="/assets/office-shelf-pothos.jpeg" alt="Description of image" style="width: 15rem; height: 20rem; border-radius:1rem;">
     <span style="display: flex; align-self: center; margin-top:1rem; font-style: italic; font-weight: bold;"> Francis &nbsp;:blue_heart:</span>
   </div>
@@ -121,16 +95,16 @@ Satin Pothos are in the Araceae family and are the Aroid of the Golden Pothos. C
 They are native to Southeast Asia, more specifically, India, Bangladesh, Thailand, Malaysia, the Philippians and Indonesia. Ok I want to admit that I didn't realize Bangladesh was a country on it's own :flushed:.
 
 <br>
-<div  style="display: flex; justify-content: space-between;">
-  <div style="display: flex; flex-direction:column; justify-content: center;  align-items: center;">
+<div  style="display: flex; flex-direction: column;">
+  <div style="display: flex; flex-direction:column; justify-content: center;  align-items: center; margin-bottom:2rem;" >
     <img src="/assets/better-satin-pothos.jpg" alt="Description of image" style="width: 15rem; height: 20rem; border-radius:1rem;">
     <span style="display: flex; align-self: center; margin-top:1rem; font-style: italic; font-weight: bold;"> Star &nbsp;:green_heart:</span>
   </div>
-  <div style="display: flex; flex-direction:column; justify-content: center;  align-items: center;">
+  <div style="display: flex; flex-direction:column; justify-content: center;  align-items: center; margin-bottom:2rem;">
     <img src="/assets/solo-satin-pothos.jpeg" alt="Description of image" style="width: 15rem; height: 20rem; border-radius:1rem;">
     <span style="display: flex; align-self: center; margin-top:1rem; font-style: italic; font-weight: bold;"> Oscar &nbsp;:green_heart:</span>
   </div>
-  <div style="display: flex; flex-direction:column; justify-content: center;  align-items: center;">
+  <div style="display: flex; flex-direction:column; justify-content: center;  align-items: center; margin-bottom:2rem;">
   <img src="/assets/satin-pothos-2.jpeg" alt="Description of image" style="width: 15rem; height: 20rem; border-radius:1rem;">
   <span style="display: flex; align-self: center; margin-top:1rem; font-style: italic; font-weight: bold;">Ollie &nbsp;:green_heart:</span>
 </div>
@@ -152,6 +126,7 @@ Vine plants in general are great plants for propagation. They grow extremely wel
 
 **Fun fact:** Vine plants in general can grow up to 40ft indoors and can surpass these lengths when grown outdoors :astonished:
 
+<br>
 <div style="display: flex; flex-direction:column; justify-content: center;  align-items: center;">
   <img src="/assets/mexican-pothos.jpeg" alt="Description of image" style="width: 20rem; height: 20rem; border-radius:1rem;">
   <span style="display: flex; align-self: center; margin-top:1rem; font-style: italic;">A golden pothos in my hotel in Mexico</span>
