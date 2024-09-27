@@ -34,9 +34,9 @@ Golden pothos are by far one of the most popular house plants around the world. 
 
 They are considered to be "true" pothos. In that, they fall under the **genus Epipremnum**, more specifically, **Epipremnum aureum** and have glossy green leaves.
 
-**Golden pothos are in the Arum family.** They are native to the Islands of French Polynesia. *If you are geographically challenged like I am, this is deep in the south pacific ocean, midway between New Zealand and Chile.*
+Golden pothos are in the Arum family. They are native to the Islands of French Polynesia. *If you are geographically challenged like I am, this is deep in the south pacific ocean, midway between New Zealand and Chile.*
 
-They require indirect bright light. These are great plants for that high shelf you might have in your kitchen. Because the vines can grow pretty long, they need to be located in a place that won't stifle their growth. 
+**They require indirect bright light.** These are great plants for that high shelf you might have in your kitchen. Because the vines can grow pretty long, they need to be located in a place that won't stifle their growth. 
 
 <br>
 
@@ -53,7 +53,7 @@ They require indirect bright light. These are great plants for that high shelf y
 
 <br>
 
-Golden Pothos will kinda tell you when they need water. They get droopy and sad when their soil is extremely dry. I spoil my plants and water them once a week. Depending on the season, the frequency of waterings could change. During winter and fall, you could probably get away with watering less frequently as the air is dry. While summer and spring, will require more frequent waterings. I've been able to go as long as 3 weeks without watering my pothos in the winter. 
+**Golden Pothos will kinda tell you when they need water.** They get droopy and sad when their soil is extremely dry. I spoil my plants and water them once a week. Depending on the season, the frequency of waterings could change. During winter and fall, you could probably get away with watering less frequently as the air is dry. While summer and spring, will require more frequent waterings. I've been able to go as long as 3 weeks without watering my pothos in the winter. 
 
 **Your plants have personalities. Get to know them. Figure out what they like and what they don't like.** For example, one of my pothos, Ted (pictured below), loves for his soil to be drenched and moist at all times. He will throw a fit and get all droopy if not. To each their own. 
 
@@ -64,7 +64,7 @@ Golden Pothos will kinda tell you when they need water. They get droopy and sad 
   </div>
 
 Fun fact:
-> Golden pothos are great for purifying the air. They work behind the scenes to absorb chemicals like formaldehyde, benzene and carbon monoxide and break them down with their leaves, all while looking very aesthetically pleasing
+> **Golden pothos are great for purifying the air.** They work behind the scenes to absorb chemicals like formaldehyde, benzene and carbon monoxide and break them down with their leaves, all while looking very aesthetically pleasing
 
 No so fun fact:
 >  Golden pothos are toxic to both pets and tiny humans (NO EATING). Due to the air purifying nature of these plants, the toxins live in the leaves. You may want to keep these out of reach or on high shelves.
