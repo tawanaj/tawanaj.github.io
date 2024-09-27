@@ -38,5 +38,8 @@ gem "rexml", ">= 3.3.6"
 
 gem "google-protobuf", ">= 4.27.5"
 
+gem "webrick", ">= 1.8.2"
+
 
 #To run: bundle exec jekyll serve
+#To install: bundle install
