@@ -5,6 +5,31 @@ date:   2024-09-27
 categories: jekyll update
 --- 
 
+<style>
+@media (max-width: 600) {
+  .img {
+    width: 10rem;
+    height: 15rem;
+  }
+}
+
+@media (max-width: 768){
+  .img {
+    width: 15rem;
+    height: 20rem;
+  }
+}
+
+
+@media (min-width: 1025){
+  .img {
+    width: 20rem;
+    height: 25rem;
+  }
+}
+
+
+</style>
 
 In the last several years, I have accumulated over 60 house plants. I'm not sure how I got to this number and when, but I love my plant children :potted_plant:. About 30% of them are some variation of a pothos plant.
 
