@@ -52,7 +52,9 @@ They are native to the Islands of French Polynesia. *If you are geographically c
 
 <br>
 
-**Golden Pothos will kinda tell you when they need water.** They get droopy and sad when their soil is extremely dry. I spoil my plants and water them once a week. Depending on the season, the frequency of waterings could change. During winter and fall, you could probably get away with watering less frequently as the air is dry. While summer and spring, will require more frequent waterings. I've been able to go as long as 3 weeks without watering my Pothos in the winter. 
+**Golden Pothos will kinda tell you when they need water.** They get droopy and sad when their soil is extremely dry. I spoil my plants and water them once a week. 
+
+The frequency of waterings could change depending on the season. During winter and fall, you could probably get away with watering less frequently as the air is dry. While summer and spring, will require more frequent waterings. I've been able to go as long as 3 weeks without watering my Pothos in the winter. 
 
 **Your plants have personalities. Get to know them. Figure out what they like and what they don't like.** For example, one of my Pothos, Ted (pictured below), loves for his soil to be drenched and moist at all times. He will throw a fit and get all droopy if not. To each their own. 
 
