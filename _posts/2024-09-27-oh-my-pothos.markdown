@@ -65,7 +65,7 @@ The frequency of waterings could change depending on the season. During winter a
   </div>
 
 Fun fact:
-> **Golden Pothos are great for purifying the air.** They work behind the scenes to absorb chemicals like formaldehyde, benzene and carbon monoxide and break them down with their leaves, all while looking very aesthetically pleasing
+> **Golden Pothos are great for purifying the air.** They work behind the scenes to absorb chemicals like formaldehyde, benzene and carbon monoxide and break them down with their leaves, all while looking very aesthetically pleasing.
 
 No so fun fact:
 >  **Golden Pothos are toxic to both pets and tiny humans (NO EATING)**. Due to the air purifying nature of these plants, the toxins live in the leaves. You may want to keep these out of reach or on high shelves.
