@@ -35,7 +35,7 @@ They are considered to be "true" pothos. In that, they fall under the **genus Ep
 
 They are native to the Islands of French Polynesia. *If you are geographically challenged like I am, this is deep in the south pacific ocean, midway between New Zealand and Chile.*
 
-**Golden Pothos require indirect bright light.** These are great plants for that high shelf you might have in your kitchen. Because the vines can grow pretty long, they should located in a place that won't stifle their growth. 
+**Golden Pothos require indirect bright light.** These are great plants for that high shelf you might have in your kitchen. Because the vines can grow pretty long, they should be located in a place that won't stifle their growth. 
 
 <br>
 
