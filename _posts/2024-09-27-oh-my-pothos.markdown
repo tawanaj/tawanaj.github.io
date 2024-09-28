@@ -29,7 +29,7 @@ Pothos plants belong to the Araceae, or Arum family.
 
 ### **Golden Pothos**
 
-Golden Pothos are by far one of the most popular house plants around the world. They are visually pleasing to the eye and require minimally little effort to keep alive.
+Golden Pothos are by far one of the most popular house plants around the world. They are visually pleasing to the eye and require minimal effort to keep alive.
 
 They are considered to be "true" pothos. In that, they fall under the **genus Epipremnum**, more specifically, **Epipremnum aureum** and have glossy green leaves.
 
