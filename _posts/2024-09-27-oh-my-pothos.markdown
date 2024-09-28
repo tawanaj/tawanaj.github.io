@@ -114,7 +114,7 @@ They are native to Southeast Asia, more specifically, India, Bangladesh, Thailan
 <br>
 
 
-Vine plants in general are great plants for propagation. They grow extremely well in water. I have propagated several Pothos in water. Once the roots grow, I'll either pot them in soil or keep them in water.
+Vine plants are great plants to propagate. They grow extremely well in water. I have propagated several Pothos in water. Once the roots grow, I'll either pot them in soil or keep them in water.
 
 
 <br>
