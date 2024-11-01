@@ -34,7 +34,7 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem 'jemoji',"~> 0.13.0"
 
-gem "rexml", ">= 3.3.6"
+gem "rexml", ">= 3.3.9"
 
 gem "google-protobuf", ">= 4.27.5"
 
