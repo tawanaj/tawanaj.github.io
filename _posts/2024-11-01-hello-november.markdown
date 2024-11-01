@@ -9,9 +9,9 @@ Hello hello :wave:
 
 Wow, I cannot believe it's already November! This is my favorite time of year. Between my birthday, various holidays and just getting to spend focused quality time with loved ones, it's always life giving! Also, the weather is amazing.
 
-Nashville has 2 great weeks for incredible weather: **the last week of October** and the **first week of November**. Before that it's way too hot and after, it's too chilly. The foliage is currently foliage-ing :fallen_leaf:.
+Nashville has 2 great weeks for incredible weather: **the last week of October** and the **first week of November**. Before then, it's way too hot and after, it's too chilly. The foliage is currently foliage-ing :fallen_leaf:.
 
-In any case, I am so so grateful to be here!
+In any case, I am so grateful to be here!
 
  <h3 style="display: flex; justify-content: center;">*****</h3>
 
@@ -33,6 +33,6 @@ So today I have no earth shattering epiphany for you. Just some questions :thoug
 
  <h3 style="display: flex; justify-content: center;">*****</h3>
 
-You only get one life. Life one that is worthy of you!
+You only get one life. Live one that is worthy of you!
 
 Cheers to the weekend friend from afar :wine_glass: 
