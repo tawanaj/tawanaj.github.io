@@ -33,6 +33,6 @@ So today I have no earth shattering epiphany for you. Just some questions :thoug
 
  <h3 style="display: flex; justify-content: center;">*****</h3>
 
-You only get one life. Live one that is worthy of you!
+You only get one life. **Live one that is worthy of you!**
 
 Cheers to the weekend friend from afar :wine_glass: 
