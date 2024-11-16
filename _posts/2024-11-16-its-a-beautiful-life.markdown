@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tawana the builder"
+title:  "Its a Beautiful Life"
 date:   2024-11-16
 categories: jekyll update
 --- 
@@ -79,7 +79,7 @@ In true pivot fashion, instead of the gym, I increased my step count for the day
 
 After Physical Therapy, I was given the ok to return to the gym.
 
-There were good days and there were bad days. The bad days, were a struggle to show up. I would often get discouraged with my own recovery and resent my body for the fact that I had to scale back. Those days, I would walk in to the gym near to tears and would find myself walking out proud that I stayed. Not that I was somehow any less agitated lol. 
+There were good days and there were bad days. The bad days, were a struggle to show up. I would often get discouraged with my own recovery and resent my body for the fact that I had to scale back. Those days, I would walk into the gym near to tears and would then find myself walking out, proud that I stayed. Not that I was somehow any less agitated lol. 
 
 I loved this season even more. It forced me to do some serious soul searching and get to the root of some deep pride. **It was my mirror :mirror:.** I also loved being back in my gym community! I missed that more than the workouts. 
 
