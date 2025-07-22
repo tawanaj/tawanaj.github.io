@@ -39,6 +39,7 @@ gem "rexml", ">= 3.3.9"
 gem "google-protobuf", ">= 4.27.5"
 
 gem "webrick", ">= 1.8.2"
+gem "nokogiri", ">= 1.18.9"
 
 
 #To run: bundle exec jekyll serve
